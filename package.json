@@ -1,9 +1,8 @@
 {
-  "name": "reveal.js",
-  "version": "3.8.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
+  "name": "proxer-to-anilist",
+  "version": "1.0.0",
+  "description": "Export your Proxer Anime List to Anilist",
+  "homepage": "https://glup3.github.io/proxer-to-anilist/",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
@@ -11,13 +10,13 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Phuc Tran",
+    "email": "glup3.tran@gmail.com",
+    "web": "https://glup3.github.io/portfolio-v2/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/Glup3/proxer-to-anilist.git"
   },
   "engines": {
     "node": ">=9.0.0"
