@@ -39,8 +39,5 @@
     "mustache": "^2.3.0",
     "socket.io": "^2.2.0"
   },
-  "license": "MIT",
-  "dependencies": {
-    "reveal.js-menu": "^1.2.0"
-  }
+  "license": "MIT"
 }
